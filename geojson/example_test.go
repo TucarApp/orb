@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/paulmach/orb"
-	"github.com/paulmach/orb/geojson"
-	"github.com/paulmach/orb/quadtree"
+	"github.com/TucarApp/orb"
+	"github.com/TucarApp/orb/geojson"
+	"github.com/TucarApp/orb/quadtree"
 )
 
 func ExampleFeature_Point() {

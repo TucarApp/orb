@@ -3,7 +3,7 @@ package wkt
 import (
 	"testing"
 
-	"github.com/paulmach/orb"
+	"github.com/TucarApp/orb"
 )
 
 func TestTrimSpaceBrackets(t *testing.T) {

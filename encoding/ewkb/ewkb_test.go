@@ -7,8 +7,8 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/paulmach/orb"
-	"github.com/paulmach/orb/encoding/internal/wkbcommon"
+	"github.com/TucarApp/orb"
+	"github.com/TucarApp/orb/encoding/internal/wkbcommon"
 )
 
 func TestMarshal(t *testing.T) {

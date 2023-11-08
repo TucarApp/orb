@@ -1,4 +1,4 @@
-# orb/maptile [![Godoc Reference](https://pkg.go.dev/badge/github.com/paulmach/orb)](https://pkg.go.dev/github.com/paulmach/orb/maptile)
+# orb/maptile [![Godoc Reference](https://pkg.go.dev/badge/github.com/TucarApp/orb)](https://pkg.go.dev/github.com/TucarApp/orb/maptile)
 
 Package `maptile` provides types and methods for working with
 [web mercator map tiles](https://www.google.com/search?q=web+mercator+map+tiles).

@@ -1,9 +1,9 @@
 package mvt
 
 import (
-	"github.com/paulmach/orb/geojson"
-	"github.com/paulmach/orb/maptile"
-	"github.com/paulmach/orb/project"
+	"github.com/TucarApp/orb/geojson"
+	"github.com/TucarApp/orb/maptile"
+	"github.com/TucarApp/orb/project"
 )
 
 const (

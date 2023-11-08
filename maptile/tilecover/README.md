@@ -1,4 +1,4 @@
-# orb/maptile/tilecover [![Godoc Reference](https://pkg.go.dev/badge/github.com/paulmach/orb)](https://pkg.go.dev/github.com/paulmach/orb/maptile/tilecover)
+# orb/maptile/tilecover [![Godoc Reference](https://pkg.go.dev/badge/github.com/TucarApp/orb)](https://pkg.go.dev/github.com/TucarApp/orb/maptile/tilecover)
 
 Package `tilecover` computes the covering set of tiles for an `orb.Geometry`.
 It is a a port of the nodejs library [tile-cover](https://github.com/mapbox/tile-cover)

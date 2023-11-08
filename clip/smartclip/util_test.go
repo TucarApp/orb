@@ -1,7 +1,7 @@
 package smartclip
 
 import (
-	"github.com/paulmach/orb"
+	"github.com/TucarApp/orb"
 )
 
 var flips = []string{

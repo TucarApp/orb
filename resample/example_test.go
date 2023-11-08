@@ -3,9 +3,9 @@ package resample_test
 import (
 	"fmt"
 
-	"github.com/paulmach/orb"
-	"github.com/paulmach/orb/planar"
-	"github.com/paulmach/orb/resample"
+	"github.com/TucarApp/orb"
+	"github.com/TucarApp/orb/planar"
+	"github.com/TucarApp/orb/resample"
 )
 
 func ExampleResample() {

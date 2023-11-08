@@ -1,4 +1,4 @@
-# orb/clip [![Godoc Reference](https://pkg.go.dev/badge/github.com/paulmach/orb)](https://pkg.go.dev/github.com/paulmach/orb/clip)
+# orb/clip [![Godoc Reference](https://pkg.go.dev/badge/github.com/TucarApp/orb)](https://pkg.go.dev/github.com/TucarApp/orb/clip)
 
 Package orb/clip provides functions for clipping lines and polygons to a bounding box.
 

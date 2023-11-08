@@ -4,8 +4,8 @@ import (
 	"database/sql"
 	"database/sql/driver"
 
-	"github.com/paulmach/orb"
-	"github.com/paulmach/orb/encoding/internal/wkbcommon"
+	"github.com/TucarApp/orb"
+	"github.com/TucarApp/orb/encoding/internal/wkbcommon"
 )
 
 var (

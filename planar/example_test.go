@@ -3,8 +3,8 @@ package planar_test
 import (
 	"fmt"
 
-	"github.com/paulmach/orb"
-	"github.com/paulmach/orb/planar"
+	"github.com/TucarApp/orb"
+	"github.com/TucarApp/orb/planar"
 )
 
 func ExampleArea() {

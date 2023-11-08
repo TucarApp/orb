@@ -4,9 +4,9 @@ import (
 	"math"
 	"math/bits"
 
-	"github.com/paulmach/orb"
-	"github.com/paulmach/orb/internal/mercator"
-	"github.com/paulmach/orb/maptile"
+	"github.com/TucarApp/orb"
+	"github.com/TucarApp/orb/internal/mercator"
+	"github.com/TucarApp/orb/maptile"
 )
 
 type projection struct {

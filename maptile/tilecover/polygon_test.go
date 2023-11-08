@@ -3,7 +3,7 @@ package tilecover
 import (
 	"testing"
 
-	"github.com/paulmach/orb"
+	"github.com/TucarApp/orb"
 )
 
 func TestRing_error(t *testing.T) {

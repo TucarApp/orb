@@ -7,9 +7,9 @@ import (
 	"sort"
 	"strconv"
 
-	"github.com/paulmach/orb"
-	"github.com/paulmach/orb/encoding/mvt/vectortile"
-	"github.com/paulmach/orb/geojson"
+	"github.com/TucarApp/orb"
+	"github.com/TucarApp/orb/encoding/mvt/vectortile"
+	"github.com/TucarApp/orb/geojson"
 
 	"github.com/gogo/protobuf/proto"
 )

@@ -4,7 +4,7 @@ import (
 	"math"
 	"testing"
 
-	"github.com/paulmach/orb"
+	"github.com/TucarApp/orb"
 )
 
 func TestArea(t *testing.T) {

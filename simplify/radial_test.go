@@ -4,8 +4,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/paulmach/orb"
-	"github.com/paulmach/orb/planar"
+	"github.com/TucarApp/orb"
+	"github.com/TucarApp/orb/planar"
 )
 
 func TestRadial(t *testing.T) {
